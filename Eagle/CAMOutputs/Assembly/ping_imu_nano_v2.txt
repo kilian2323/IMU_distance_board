@@ -1,0 +1,13 @@
+Stückliste exportiert aus C:/Users/ochs2/Google Drive/TTU/CFB/01_IAS0220_2020-08/ias0220/EXE/7 _ Physical system/Eagle/ping_imu_nano_v2.sch am 19.08.2020 14:45
+
+Qty Value      Device              Package       Parts                  Description                                                                                                     PROD_ID   
+2              CONN_02PTH3         1X02_LONGPADS J3, J5                 Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections           
+1              CONN_03LONGPADS     1X03_LONGPADS J6                     Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections           
+1              CONN_04LONGPADS     1X04_LONGPADS J1                     Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections CONN-09696
+2              CONN_05PTH_LONGPADS 1X05_LONGPADS J2, J4                 Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections           
+6              R-EU_M1206          M1206         R1, R2, R3, R4, R5, R6 RESISTOR, European symbol                                                                                                 
+4   0.1u       C-EUC1206           C1206         C1, C3, C4, C5         CAPACITOR, European symbol                                                                                                
+1   200k       R-EU_M1206          M1206         R7                     RESISTOR, European symbol                                                                                                 
+1   2k         R-EU_M1206          M1206         R8                     RESISTOR, European symbol                                                                                                 
+1   NANO_BARE  NANO_BARE           NANO_BARE     U$1                    Arduino Nano                                                                                                              
+1   PCA9306SO8 PCA9306SO8          SO8           U1                     Bidirectional I2C level shifter.                                                                                          
